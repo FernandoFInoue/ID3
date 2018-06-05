@@ -1,0 +1,16 @@
+aparencia, temperatura, umidade, vento, jogar-tennis
+ensolarado, quente, alta, fraco, não
+ensolarado, quente, alta, forte, não
+nublado, quente, alta, fraco, sim
+chuva, moderada, alta, fraco, sim
+chuva, fria, normal, fraco, sim
+chuva, fria, normal, forte, não
+nublado, fria, normal, forte, sim
+ensolarado, moderada, alta, fraco, não
+ensolarado, fria, normal, fraco, sim
+chuva, moderada, normal, fraco, sim
+ensolarado, moderada, normal, forte, sim
+nublado, moderada, alta, forte, sim
+nublado, quente, normal, fraco, sim
+chuva, moderada, alta, forte, não
+chuva, quente, alta, fraco, sim
